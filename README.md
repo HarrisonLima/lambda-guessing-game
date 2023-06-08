@@ -1,4 +1,4 @@
-# API do Jogo de Adivinhação
+# Jogo de Adivinhação
 
 # Descrição:
 Esta é uma API para um jogo de adivinhação de números. O jogador deve descobrir o número secreto que está entre 01 á 10. O mesmo deve realizar uma requisição de método POST para a API informando o número que deseja e a API retornará o resultado indicando se o número informado está correto ou não. Conforme o número secreto.
